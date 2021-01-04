@@ -62,8 +62,7 @@
                         <div class="user-menu dropdown-menu">
                             <a class="nav-link" href="#"><i class="fa fa-user"></i>Mon Profile</a>
 
-                            <a class="nav-link" href="#"><i class="fa fa-bell-o"></i>Notifications <span class="count">13</span></a>
-
+                          
                             <a class="nav-link" href="#"><i class="fa fa-cog"></i>Paramètres</a>
 
                             <a class="nav-link" href="#"><i class="fa fa-power-off"></i>Déconnexion</a>

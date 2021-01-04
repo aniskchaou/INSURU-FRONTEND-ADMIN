@@ -16,7 +16,7 @@
               <th>Email</th>
               <th>Phone</th>
               <th>Date de naissance</th>
-              <th>Adresse</th>
+             
               <th>Entreprise</th>
               <th>inviteur</th>
               <th>Actions</th>
@@ -29,17 +29,17 @@
               <td>Edinburgh</td>
               <td>kchaouanis@gmail.com</td>
               <td>01/05/1990</td>
-              <td></td>
+              
               <td>Delta soft</td>
               <td>Anis</td>
-              <td>
-                <a href="#" class="btn btn-sm btn-warning"
-                  ><span class="glyphicon glyphicon-edit"></span>
-                </a>
-              </td>
+ <td><button type="button" data-toggle="modal" data-target="#viewTask" class="btn btn-primary btn-sm"><i class="fas fa-address-book"></i></button>
+              <button type="button" data-toggle="modal" data-target="#editTask" class="btn btn-warning btn-sm"><i class="fas fa-edit"></i></button>
+              <button type="button" class="btn btn-danger btn-sm" ><i class="fas fa-trash-alt"></i></button></td>
             </tr>
           </tbody>
         </table>
+
+        
       </div>
     </div>
   </div>

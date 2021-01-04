@@ -1,5 +1,5 @@
 <template>
-  <div class="col-md-12">
+  
     <div class="card">
       <div class="card-header">
         <strong class="card-title">Tableau de bord</strong>
@@ -88,7 +88,6 @@
         </div>
       </div>
     </div>
-  </div>
 </template>
 
 <script>
