@@ -37,7 +37,7 @@
                         Copyright &copy; 2018 Ela Admin
                     </div>
                     <div class="col-sm-6 text-right">
-                        Designed by <a href="https://colorlib.com">Colorlib</a>
+                        Developed by <a href="https://github.com/aniskchaou">Anis KCHAOU</a>
                     </div>
                 </div>
             </div>
